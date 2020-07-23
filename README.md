@@ -3,7 +3,8 @@
 packages/index.js: 多组件打包入口
 
 ## 使用
-public/index.html: 引入dist中的umd.js或umd.min.js，css文件
+1. public/index.html: 引入dist中的umd.js或umd.min.js，css文件
+2. webpack需要将通过cdn引入的组件配置成外部引入，详见vue.config.js
 
 ## 本地运行使用demo
 ```

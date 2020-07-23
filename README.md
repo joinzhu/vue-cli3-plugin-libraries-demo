@@ -19,3 +19,4 @@ npm run lib
 ```
 npm run libMultiple
 ```
+参考文档：https://cli.vuejs.org/zh/guide/build-targets.html
